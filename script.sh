@@ -3,3 +3,5 @@
 hostname 
 
 date 
+
+ls -la 

@@ -7,3 +7,5 @@ date
 ls -la 
 
 pwd 
+
+which ls

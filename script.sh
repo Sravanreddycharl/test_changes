@@ -5,3 +5,5 @@ hostname
 date 
 
 ls -la 
+
+pwd 

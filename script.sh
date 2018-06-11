@@ -9,3 +9,5 @@ ls -la
 pwd 
 
 which ls
+
+chage -l root
